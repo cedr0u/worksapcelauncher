@@ -1,0 +1,20 @@
+# Custom Language File for Launcher Customizer
+
+[ejs.app]
+title = "4kraft Launcher"
+
+[ejs.landing]
+mediaGitHubURL = "https://overfarm.fr/"
+mediaTwitterURL = "#"
+mediaInstagramURL = "#"
+mediaYouTubeURL = "#"
+mediaDiscordURL = "https://discord.gg/lameute"
+
+[ejs.settings]
+sourceGithubLink = "https://github.com/cedr0u/OverfarmLauncher"
+supportLink = "https://github.com/cedr0u/OverfarmLauncher/issues"
+
+[ejs.welcome]
+welcomeHeader = "WELCOME TO OVERFARM"
+welcomeDescription = "Farm, Quetes, Fun"
+welcomeDescCTA = "Plus que quelque clique pour rejoindre Overfarm."
